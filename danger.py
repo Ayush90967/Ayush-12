@@ -26,7 +26,7 @@ logging.basicConfig(
 
 # Configuration
 TOKEN = '8778944344:AAEg3AWMBth9ZfdHzB2PRg_VMO38wwsDFes'
-MONGO_URI = 'mongodb+srv://ayushrathore6006_db_user:<CABrxef9gf9Pzxis>@bgmi.inqkghd.mongodb.net/?appName=BGMi'
+MONGO_URI = 'mongodb+srv://ayushrathore6006_db_user:CABrxef9gf9Pzxis@bgmi.inqkghd.mongodb.net/?appName=BGMi'
 ADMIN_IDS = [8438136320]
 CONFIG_FILE = 'config.json'
 
